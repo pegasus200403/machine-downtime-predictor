@@ -8,7 +8,7 @@ Confidence Score: Returns a confidence score along with the prediction.
 Input Validation: Ensures all required features are provided for accurate predictions.
 
 Setup Instructions
-1. Prerequisites
+Prerequisites
 Ensure you have the following installed on your system:
 
 Python 3.7 or higher
