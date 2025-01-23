@@ -16,8 +16,11 @@ pip (Python package manager)
 
 How to run Api:-
 Clone API folder to your local computer.Open pycharm and set enviornment of python 3 or higher.Run app.py on pycharm you will get "http://127.0.0.1:5000".
+
 Now,open postman to test the machine learning model
+
 select and open new request,name the request and enter "localhost:5000/predict" and Method: POST whereas select body go to 'raw' and set form to 'JSON' and OUTPUT form as JSON
+
 Enter the input in body:-
 input format example:
 {
@@ -34,6 +37,8 @@ input format example:
     "Torque(Nm)": 35,
     "Cutting(kN)": 10
 }
+
+
 click on send:
 we will get ouput as:-
 example
